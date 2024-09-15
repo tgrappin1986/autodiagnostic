@@ -1,4 +1,4 @@
-# Test Softway
+# Test
 Traitement des données provenant de la cabine automatisée d'auto-diagnostic
 
 # Instructions
